@@ -25,10 +25,6 @@ LunarScape is currently under active development.
 The initial development direction includes:
 
 - [ ] Minimal personal dashboard
-- [ ] Greeting and live clock
-- [ ] Date display
-- [ ] Quick links
-- [ ] Daily inspirational quote
 
 Features will be introduced gradually as development progresses.
 
@@ -72,14 +68,14 @@ Make sure you have installed:
 
 ```text
 LunarScape/
-├── lib/              # Main application source code
-├── test/             # Application tests
-├── windows/          # Windows desktop configuration
-├── linux/            # Linux desktop configuration
-├── macos/            # macOS desktop configuration
-├── web/              # Web configuration
-├── pubspec.yaml      # Project dependencies
-└── README.md         # Project documentation
+├── lib/              
+├── test/             
+├── windows/          
+├── linux/            
+├── macos/            
+├── web/              
+├── pubspec.yaml      
+└── README.md         
 ```
 
 ## 🎯 Philosophy
