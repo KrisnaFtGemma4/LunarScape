@@ -24,7 +24,13 @@ LunarScape is currently under active development.
 
 The initial development direction includes:
 
-- [ ] Minimal personal dashboard
+- [x] Minimal personal dashboard
+- [x] Greeting and live clock
+- [x] Date display
+- [x] Quick links
+- [x] Daily inspirational quote
+
+Dashboard v1 is complete. Tasks and Settings v1 are now in place, and Notes is next.
 
 Features will be introduced gradually as development progresses.
 
